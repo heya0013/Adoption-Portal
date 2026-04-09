@@ -1,0 +1,55 @@
+[
+  {
+    "geo": "ISG",
+    "brand": "CP & Parts Reservation",
+    "metric": "Active Users",
+    "date": "2025-03-01",
+    "value": 53
+  },
+
+  {
+    "geo": "ISG",
+    "brand": "SCC BSR",
+    "metric": "Active Users",
+    "date": "2025-03-01",
+    "value": 152
+  },
+  {
+    "geo": "ISG",
+    "brand": "SCC BSR",
+    "metric": "PV/Day",
+    "date": "2025-03-01",
+    "value": 346
+  },
+
+  {
+    "geo": "ISG",
+    "brand": "E&O related",
+    "metric": "PV/Day",
+    "date": "2025-03-01",
+    "value": 1966
+  },
+  {
+    "geo": "ISG",
+    "brand": "E&O related",
+    "metric": "Active Users",
+    "date": "2025-03-01",
+    "value": 122
+  },
+
+  {
+    "geo": "ISG",
+    "brand": "MWD related",
+    "metric": "Active Users",
+    "date": "2025-03-01",
+    "value": "need tracking after business go live"
+  },
+
+  {
+    "geo": "ISG",
+    "brand": "ISG CX KPI",
+    "metric": "Active Users",
+    "date": "2025-03-01",
+    "value": "need tracking after business go live"
+  }
+]

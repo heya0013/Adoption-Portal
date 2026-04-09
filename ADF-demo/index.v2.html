@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Adoption Portal</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    :root{
+      --bg: #0b1220;
+      --panel: rgba(255,255,255,.06);
+      --stroke: rgba(255,255,255,.10);
+      --text: rgba(255,255,255,.92);
+      --muted: rgba(255,255,255,.62);
+      --accent: #7c5cff;
+      --good: #2ecc71; /* 下降=绿 */
+      --bad: #ff5c5c; /* 上升=红 */
+      --shadow: 0 10px 25px rgba(0,0,0,.28);
+      --shadow2: 0 6px 18px rgba(0,0,0,.22);
+      --radius: 14px;
+      --gap: 14px;
+      --font: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+    }
+    html,body{height:100%;}
+    body{
+      margin:0;
+      font-family: var(--font);
+      color: var(--text);
+      background:
+        radial-gradient(1200px 800px at 10% 10%, rgba(124,92,255,.25), transparent 55%),
+        radial-gradient(900px 600px at 90% 20%, rgba(46,204,113,.18), transparent 55%),
+        radial-gradient(800px 600px at 70% 90%, rgba(255,92,92,.14), transparent 55%),
+        var(--bg);
+    }
+    .layout{display:grid; grid-template-columns:260px 1fr; min-height:100vh;}
+    /* left */
+    .nav{
+      padding:18px 14px;
+      border-right:1px solid var(--stroke);
+      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01));
+      backdrop-filter: blur(10px);
+    }
+    .brand{display:flex; align-items:center; gap:10px; padding:10px 10px 14px; margin-bottom:10px;}
+    .logo{
+      width:34px;height:34px;border-radius:10px;
+      background: linear-gradient(135deg, rgba(124,92,255,1), rgba(46,204,113,.9));
+      box-shadow: var(--shadow2);
+    }
+    .brand h1{font-size:14px; margin:0;}
+    .brand .sub{font-size:12px; color:var(--muted); margin-top:2px;}
+    .navSectionTitle{
+      font-size:12px; color:var(--muted);
+      margin:14px 10px 8px;
+      text-transform:uppercase; letter-spacing:.9px;
+    }
+    .projectList{display:flex; flex-direction:column; gap:8px; padding:0 8px;}
+    .projectBtn{
+      border:1px solid transparent;
+      background: rgba(255,255,255,.04);
+      color: var(--text);
+      padding:10px 10px;
+      border-radius:12px;
+      cursor:pointer;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      transition:.15s ease;
+    }
+    .projectBtn:hover{background: rgba(255,255,255,.06);}
+    .projectBtn.active{
+      background: rgba(124,92,255,.18);
+      border-color: rgba(124,92,255,.35);
+      box-shadow: 0 0 0 2px rgba(124,92,255,.12) inset;
+    }
+    .projectBtn .name{font-weight:650; font-size:13px;}
+    .projectBtn .tag{
+      font-size:11px; color:var(--muted);
+      background: rgba(255,255,255,.06);
+      padding:3px 8px; border-radius:999px;
+    }
+    /* main */
+    .main{padding:18px;}
+    .topbar{
+      display:flex; align-items:flex-start; justify-content:space-between;
+      gap:12px; margin-bottom: var(--gap);
+    }
+    .titleBlock h2{margin:0; font-size:18px;}
+    .titleBlock .desc{margin-top:6px; color:var(--muted); font-size:12px; line-height:1.4;}
+    .controls{display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:flex-end;}
+    .control{
+      background: var(--panel);
+      border:1px solid var(--stroke);
+      border-radius:12px;
+      padding:8px 10px;
+      display:flex; align-items:center; gap:8px;
+    }
+    label{font-size:12px; color:var(--muted);}
+    select, input[type="date"]{
+      background:transparent; border:0; color:var(--text);
+      outline:none; font-size:12px;
+    }
+    select option{color:#111;}
+    .btn{
+      border:1px solid rgba(255,255,255,.14);
+      background: rgba(255,255,255,.06);
+      color: var(--text);
+      padding:9px 12px;
+      border-radius:12px;
+      cursor:pointer;
+      transition:.15s ease;
+      font-size:12px; font-weight:650;
+    }
+    .btn:hover{background: rgba(255,255,255,.08);}
+    .btn.primary{
+      border-color: rgba(124,92,255,.35);
+      background: rgba(124,92,255,.18);
+    }
+    .grid{display:grid; grid-template-columns:1fr 340px; gap: var(--gap);}
+    /* KPI cards */
+    .kpis{display:grid; grid-template-columns:repeat(4,1fr); gap: var(--gap); margin-bottom: var(--gap);}
+    .card{
+      border-radius: var(--radius);
+      border:1px solid var(--stroke);
+      background: linear-gradient(180deg, rgba(255,255,255,.07), rgba(255,255,255,.04));
+      box-shadow: var(--shadow2);
+      backdrop-filter: blur(12px);
+    }
+    .kpiCard{padding:12px; position:relative; overflow:hidden;}
+    .kpiCard::before{
+      content:"";
+      position:absolute; inset:-80px -120px auto auto;
+      width:180px; height:180px;
+      background: radial-gradient(circle at 30% 30%, rgba(124,92,255,.35), transparent 60%);
+      transform: rotate(20deg);
+      pointer-events:none;
+    }
+    .kpiTitle{font-size:12px; color:var(--muted); margin-bottom:6px; position:relative;}
+    .kpiValue{font-size:20px; font-weight:800; letter-spacing:.3px; position:relative;}
+    /* chart */
+    .chartCard{padding:12px;}
+    #chart{width:100%; height:420px;}
+    /* details */
+    .detailCard{padding:12px;}
+    .detailTitle{display:flex; align-items:center; justify-content:space-between; margin-bottom:10px;}
+    .detailTitle h3{margin:0; font-size:14px;}
+    .pill{
+      font-size:11px; color:var(--muted);
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.05);
+      padding:4px 10px; border-radius:999px;
+    }
+    .kv{
+      display:grid; grid-template-columns:80px 1fr;
+      gap:8px 10px; font-size:12px; padding:10px;
+      background: rgba(0,0,0,.10);
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:12px;
+    }
+    .kv .k{color:var(--muted);}
+    .kv .v{font-weight:650;}
+    .divider{height:1px; background: rgba(255,255,255,.10); margin:12px 0;}
+    .hint{font-size:12px; color:var(--muted); line-height:1.5;}
+    .trendUp{color: var(--bad); font-weight:800;} /* 上升红 */
+    .trendDown{color: var(--good); font-weight:800;} /* 下降绿 */
+    .trendFlat{color: var(--muted); font-weight:700;}
+    @media (max-width: 1100px){
+      .layout{grid-template-columns:1fr;}
+      .nav{border-right:0; border-bottom:1px solid var(--stroke);}
+      .grid{grid-template-columns:1fr;}
+      .kpis{grid-template-columns:repeat(2,1fr);}
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <aside class="nav">
+      <div class="brand">
+        <div class="logo"></div>
+        <div>
+          <h1>Adoption Portal</h1>
+          <div class="sub">Multi‑project dashboard</div>
+        </div>
+      </div>
+
+      <div class="navSectionTitle">Projects</div>
+      <div id="projectList" class="projectList"></div>
+    </aside>
+
+    <main class="main">
+      <div class="topbar">
+        <div class="titleBlock">
+          <h2 id="pageTitle">—</h2>
+          <div class="desc" id="pageDesc">—</div>
+        </div>
+
+        <div class="controls">
+          <div class="control">
+            <label>GEO</label>
+            <select id="geo"></select>
+          </div>
+          <div class="control">
+            <label>Brand</label>
+            <select id="brand"></select>
+          </div>
+          <div class="control">
+            <label>Start</label>
+            <input id="start" type="date" />
+          </div>
+          <div class="control">
+            <label>End</label>
+            <input id="end" type="date" />
+          </div>
+          <button id="apply" class="btn primary">Apply</button>
+          <button id="reset" class="btn">Reset</button>
+        </div>
+      </div>
+
+      <section class="grid">
+        <div>
+          <!-- ✅ KPI Section Wrapper (module view will hide this) -->
+          <div id="kpiSection">
+            <div class="kpis">
+              <div class="card kpiCard">
+                <div class="kpiTitle" id="k1t">—</div>
+                <div class="kpiValue" id="k1">—</div>
+              </div>
+              <div class="card kpiCard">
+                <div class="kpiTitle" id="k2t">—</div>
+                <div class="kpiValue" id="k2">—</div>
+              </div>
+              <div class="card kpiCard">
+                <div class="kpiTitle" id="k3t">—</div>
+                <div class="kpiValue" id="k3">—</div>
+              </div>
+              <div class="card kpiCard">
+                <div class="kpiTitle" id="k4t">—</div>
+                <div class="kpiValue" id="k4">—</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- ISG 模块化视图 -->
+          <div class="card chartCard">
+            <div id="chart"></div>
+            <div
+              id="moduleContainer"
+              style="display:none; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:14px;">
+            </div>
+          </div>
+        </div>
+
+        <!-- ✅ Detail Section Wrapper (module view will hide this) -->
+        <div id="detailSection" class="card detailCard">
+          <div class="detailTitle">
+            <h3>Selection Details</h3>
+            <div class="pill" id="lastUpdated">lastUpdated: —</div>
+          </div>
+
+          <div class="kv">
+            <div class="k">Project</div><div class="v" id="sProject">—</div>
+            <div class="k">GEO</div><div class="v" id="sGeo">—</div>
+            <div class="k">Brand</div><div class="v" id="sBrand">—</div>
+            <div class="k">Metric</div><div class="v" id="sMetric">—</div>
+            <div class="k">Date</div><div class="v" id="sDate">—</div>
+            <div class="k">Value</div><div class="v" id="sValue">—</div>
+          </div>
+
+          <div class="divider"></div>
+
+          <div class="kv">
+            <div class="k">Trend</div><div class="v" id="sTrend">—</div>
+          </div>
+
+          <div class="divider"></div>
+
+          <div class="hint">
+            默认选中“主指标 + 末尾日期”。点击折线上的点可更新详情与趋势。
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Bootstrap -->
+  <script type="module">
+    import { initPortal } from './app-core.v2.js';
+    import adf from './projects/adf/config.js';
+    import isg from './projects/isg/config.js';
+    import esg from './projects/esg/config.js';
+    import e2e from './projects/e2e/config.js';
+    initPortal({
+      projects: { adf, isg, esg, e2e},
+      defaultProjectId: 'adf'
+    });
+  </script>
+</body>
+</html>

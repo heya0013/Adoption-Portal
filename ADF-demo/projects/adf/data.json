@@ -1,0 +1,2683 @@
+[
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.28546712655966944
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.3616852312616545
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.28778415462042656
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.30309835003967567
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.2996080615107837
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.30272562682821463
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.3990003425847651
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.28862263735726335
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.34418792150331917
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.15199062377438685
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.17712021588743013
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.2221420491833013
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.13624645400121754
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.25723158177861455
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.49642573376273974
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.48568706974074916
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.4692711045088704
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.4452679855406497
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.41930549374254544
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.3967573891786606
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.36656870691118376
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.4254392420305325
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6562210185861672
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.6237836169062579
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.6317557441523491
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.5951681835194923
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.5611599656418563
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.527684266485396
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.576695259825945
+  },
+  {
+    "geo": "AP",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.594015500936987
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.3203363273517445
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.3389716813125226
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.2986477660254793
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.3679812439834798
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.38054801830713
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.38593477362720363
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.32456583952182577
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.35960105559979
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.3346439228533777
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.34862727931822224
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.3747158647698559
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.37883599986938254
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.2805969932983155
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.3587318199360938
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.5876690904761462
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.5698269530259681
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.5333880614732768
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.5252469246749122
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.5208484417492419
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.5198468684447107
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.549696210227197
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.535022873972443
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6672819518632825
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.6259805874470318
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.6098294235282298
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.5971724982549124
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.5701277312369102
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.5749284911597242
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.6145916812148705
+  },
+  {
+    "geo": "AP",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.6158475845787095
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.7680840120047618
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.7150628656056806
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.7455354786684221
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.7576022115524517
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.7505787098960284
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.7444774136533493
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.6333381814068302
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.6141701139325487
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Adopted %",
+    "value": 0.7680840120047618
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.7150628656056806
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.7455354786684221
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.7576022115524517
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.7505787098960284
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.7444774136533493
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.6333381814068302
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.6141701139325487
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.7665447454302521
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.7983682183824077
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.7565970508930201
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.7205654880207476
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.7016347678153932
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.6712643050164602
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.734941905271376
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.7018891370876117
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.7617659453111294
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.7841741138050939
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.7479378789141116
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.7263314044054191
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.6978725788363205
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.6573591362452708
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.7487707954819808
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.7150376636069582
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.5670967074842118
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.6073619541495173
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.6583770978366862
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.6837456176814299
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.6763785149069187
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.6821862545433285
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.5921172034609766
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.5962860688055183
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Adopted %",
+    "value": 0.5670967074842118
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.6073619541495173
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.6583770978366862
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.6837456176814299
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.6763785149069187
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.6821862545433285
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.5921172034609766
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.5962860688055183
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.7234743469775977
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.7295904478145827
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.7246924216994003
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.6799730724119835
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.6234320242718858
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.6048214153676553
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.5943561370706363
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.5944952961307887
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.7595364407249116
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.7348171002655732
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.7435721170362082
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.7123747226706967
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.6604628910399688
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.6310931439768227
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.6795854342612702
+  },
+  {
+    "geo": "EMEA",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.683430273965499
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.6819507976935738
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.6951774705889738
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.6660300117266222
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.7013359349960024
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.7124846136236203
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.7255158098755247
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.653930365634151
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.6322850541608374
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.5385094792641213
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.530667686494921
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.49625756457564574
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.451401789839497
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.4158604391254744
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.3345898295600692
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.2746888727736991
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.4111122253221667
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6125536365307357
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.662800783112511
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.6416443331576173
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.6044844920752898
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.578229481478032
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.4923065572216983
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.6064792943823807
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.512886690784732
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.08912764321569606
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.39608406149305636
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.16110105146995968
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.1550603028395348
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.1607648893863263
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.13302076603599447
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.27973524939626127
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.3679792561942043
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.6614424719750679
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.4071864548086536
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.26274891461649785
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.31702342477096074
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.2749449464276898
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.2635499000888099
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.45043072112717186
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.48504629483956463
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6384710516688491
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.5381051973386397
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.5251201157742403
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.5858329549400358
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.5630536216856762
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.559240119893428
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.5460234529754082
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.45704592494024693
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.38703410496978724
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.5521472392638037
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.40470697206697936
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.6666666666666666
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.5018038850286065
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.6277245768744024
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.571632261317128
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.5041786315225224
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.3008982035928144
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.31203964498177045
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.19382509480302995
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.6067612034199638
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.6549352473186495
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.6491240011674845
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.6116191301987861
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.5867136728099713
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.5505791772062146
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.49636395322493926
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.4747046324756632
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6522958651816939
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.6907750583230694
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.6801361220792239
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.6501508087831108
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.6491384520235406
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.6028485565414685
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.6823680314243865
+  },
+  {
+    "geo": "LAS",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.6556904363163846
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.6129462799600532
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.683891402685188
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.678925000853871
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.6738285640572788
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.6600025778282602
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.6436583069017984
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.4570659936376031
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.5440961242545137
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.16842105263157894
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.058381508163619054
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.1419229551220684
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.6243786837527339
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Planner FA",
+    "value": 0.6241000995305099
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.6058992992921054
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.6129142208821434
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.5786978325943872
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.5569256948294109
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.5309784205543172
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.5680246825457832
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6960226074000402
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "ADF FA",
+    "value": 0.692082504112662
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.6593570016888858
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.6597592925735425
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.6620240358355787
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.6027509386181525
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.6462363473451525
+  },
+  {
+    "geo": "LAS",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.6515387972625908
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.4896013273472737
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.5322857281165532
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.48583308623318594
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.5703964685080427
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.5201443075639133
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.5552782601965794
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.53683217349829
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.44381327385866465
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-04-01",
+    "metric": "Adopted %",
+    "value": 0.29127355443976705
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.4147600573500886
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.2827226780387119
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.31652394110161486
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.31869249064239313
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.41482979820226745
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.33308676916113183
+  },
+  {
+    "geo": "WW",
+    "brand": "TNB+MWS",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.27201834922719903
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.45706805252918653
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.5155709804870299
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.5137110457164561
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.5355401930012956
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.5316483275480473
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.5293934116793602
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.45726136938657697
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.5092338011654939
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-04-01",
+    "metric": "Adopted %",
+    "value": 0.24827922219023926
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.37632275132275134
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.28824246658725367
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.36140619825624865
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.36282470893938706
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.3799841407088423
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.4376138333625266
+  },
+  {
+    "geo": "WW",
+    "brand": "TDT+DTWS",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.3512498363847199
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.4769952082812635
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-05-01",
+    "metric": "Proposed %",
+    "value": 0.5258090331033928
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.49663534572069773
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.5568902241569078
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.5246019296898335
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.5452482990494684
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.6258613684974483
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.46820613997522365
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-04-01",
+    "metric": "Adopted %",
+    "value": 0.27461394440875275
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-05-01",
+    "metric": "Adopted %",
+    "value": 0.4016621081281454
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.28486150703921054
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.333915091571596
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.33579301315695287
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.4013276681599726
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.36986579217178606
+  },
+  {
+    "geo": "WW",
+    "brand": "TBG",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.3015608053646249
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.25905069914782103
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.2759367340582556
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.4204782810039826
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.38762951288738784
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.36283829232277587
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.2977445017300697
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.44715447154471544
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.30675675675675673
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.6612377850162866
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.603225806451613
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.4385669290052459
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.4343026730987237
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.527759242272964
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.540657980816408
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.6295994691541524
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.5844191462810602
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.45855108524325067
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.5714716520015114
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.6615111220290122
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.6573432973855189
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.7290030499087711
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB Consumer",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.6610798472329364
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.23119969027378942
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.27146178127585235
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.556799330175983
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.4170386638745595
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6254916323364736
+  },
+  {
+    "geo": "AP",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.5768739465754125
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.1940089782313012
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.19781364186346098
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-07-01",
+    "metric": "Proposed %",
+    "value": 0.20399490012749683
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-08-01",
+    "metric": "Proposed %",
+    "value": 0.20438518484953186
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.1251840942562592
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.22686618018683097
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.36496350364963503
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-07-01",
+    "metric": "Adopted %",
+    "value": 0.2
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-08-01",
+    "metric": "Adopted %",
+    "value": 0.5172413793103449
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.2857142857142857
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.39294516490026987
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.4217321444873862
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-07-01",
+    "metric": "Planner FA",
+    "value": 0.5911371763418078
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-08-01",
+    "metric": "Planner FA",
+    "value": 0.587573560137457
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.5313257186369693
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.4729245699207342
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.47792969521427153
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.5599619609871884
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-07-01",
+    "metric": "ADF FA",
+    "value": 0.5949507093220339
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-08-01",
+    "metric": "ADF FA",
+    "value": 0.635489537966966
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.5540719588806396
+  },
+  {
+    "geo": "AP",
+    "brand": "LDT",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.5976220982060909
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.344381779319621
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.3224837089431912
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.3192424593858641
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.6220093220623
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.5637209227610007
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.534058882325643
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.6367622461632856
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.651923592304881
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.6053639381715631
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.2925831937158914
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.2713804954563642
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.24629507317693025
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-10-01",
+    "metric": "Proposed %",
+    "value": 0.3751030781429991
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-11-01",
+    "metric": "Proposed %",
+    "value": 0.3071740859834077
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Adopted %",
+    "value": 0.2925831937158914
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Adopted %",
+    "value": 0.2713804954563642
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "Adopted %",
+    "value": 0.24629507317693025
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-10-01",
+    "metric": "Adopted %",
+    "value": 0.3751030781429991
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-11-01",
+    "metric": "Adopted %",
+    "value": 0.3071740859834077
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.5370313897635557
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.6188421681107097
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.6661061502874441
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-10-01",
+    "metric": "Planner FA",
+    "value": 0.5049039105438156
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-11-01",
+    "metric": "Planner FA",
+    "value": 0.5774469185514455
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.5852401929609581
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.6634732994536837
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.679960228367974
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-10-01",
+    "metric": "ADF FA",
+    "value": 0.5583869798917653
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LNB SMB",
+    "date": "2025-11-01",
+    "metric": "ADF FA",
+    "value": 0.6698342423951423
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.21211517881585823
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.19447727050966532
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.1813809827506934
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.766797782470961
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.7010017839223993
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.5996907005744423
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.7539193945793734
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.713773832088304
+  },
+  {
+    "geo": "EMEA",
+    "brand": "LDT",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.5328286689698877
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.44712884932701974
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.49207419740490604
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.49779198163560523
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.47629712762723486
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.4513714896282847
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.44770344378986104
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.623318534333444
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.5842010932993279
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB Consumer",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.5592801728240981
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.3385545796178107
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.44348504382306103
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.4001929491046934
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "Planner FA",
+    "value": 0.5656659456966875
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "Planner FA",
+    "value": 0.5289073734782785
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "Planner FA",
+    "value": 0.3958690256928098
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-04-01",
+    "metric": "ADF FA",
+    "value": 0.568528452695952
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-06-01",
+    "metric": "ADF FA",
+    "value": 0.5887251333414765
+  },
+  {
+    "geo": "LAS",
+    "brand": "LNB SMB",
+    "date": "2025-09-01",
+    "metric": "ADF FA",
+    "value": 0.579984568669421
+  },
+  {
+    "geo": "4 GEOS",
+    "brand": "LBG",
+    "date": "2025-04-01",
+    "metric": "Proposed %",
+    "value": 0.2868464622115654
+  },
+  {
+    "geo": "4 GEOS",
+    "brand": "LBG",
+    "date": "2025-06-01",
+    "metric": "Proposed %",
+    "value": 0.28965878100560677
+  },
+  {
+    "geo": "4 GEOS",
+    "brand": "LBG",
+    "date": "2025-09-01",
+    "metric": "Proposed %",
+    "value": 0.32401155494646977
+  }
+]

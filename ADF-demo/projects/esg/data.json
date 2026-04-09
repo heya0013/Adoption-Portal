@@ -1,0 +1,52 @@
+[
+  {
+    "geo": "All",
+    "brand": "ESG Platform",
+    "metric": "Vendor Group Amount (2025)",
+    "value": 305
+  },
+  {
+    "geo": "All",
+    "brand": "ESG Platform",
+    "metric": "Vendor Group Amount (2026)",
+    "value": 312
+  },
+  {
+    "geo": "All",
+    "brand": "ESG Platform",
+    "metric": "ESG Scorecard Indicator Amount (2025)",
+    "value": 737
+  },
+  {
+    "geo": "All",
+    "brand": "ESG Platform",
+    "metric": "ESG Scorecard Indicator Amount (2026)",
+    "value": 748
+  },
+
+  {
+    "geo": "All",
+    "brand": "LCA",
+    "metric": "Part Data Collect Amount (FY2425)",
+    "value": 473
+  },
+  {
+    "geo": "All",
+    "brand": "LCA",
+    "metric": "Part Data Collect Amount (FY2526)",
+    "value": 4179
+  },
+
+  {
+    "geo": "All",
+    "brand": "GDM",
+    "metric": "MAU Amount (FY2526 Q1)",
+    "value": 61
+  },
+  {
+    "geo": "All",
+    "brand": "GDM",
+    "metric": "MAU Amount (FY2526 Q3)",
+    "value": 398
+  }
+]

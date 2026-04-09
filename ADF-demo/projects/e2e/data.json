@@ -1,0 +1,41 @@
+[
+  { "Function": "MDSC", "date": "2025-12-01", "metric": "UV", "value": 39 },
+  { "Function": "MDSC", "date": "2026-01-01", "metric": "UV", "value": 123 },
+  { "Function": "MDSC", "date": "2026-02-01", "metric": "UV", "value": 102 },
+  { "Function": "MDSC", "date": "2026-03-01", "metric": "UV", "value": 124 },
+
+  { "Function": "MDSC", "date": "2025-12-01", "metric": "PV", "value": 180 },
+  { "Function": "MDSC", "date": "2026-01-01", "metric": "PV", "value": 941 },
+  { "Function": "MDSC", "date": "2026-02-01", "metric": "PV", "value": 1217 },
+  { "Function": "MDSC", "date": "2026-03-01", "metric": "PV", "value": 2099 },
+
+  { "Function": "PCG", "date": "2025-12-01", "metric": "UV", "value": 40 },
+  { "Function": "PCG", "date": "2026-01-01", "metric": "UV", "value": 28 },
+  { "Function": "PCG", "date": "2026-02-01", "metric": "UV", "value": 19 },
+  { "Function": "PCG", "date": "2026-03-01", "metric": "UV", "value": 36 },
+
+  { "Function": "PCG", "date": "2025-12-01", "metric": "PV", "value": 215 },
+  { "Function": "PCG", "date": "2026-01-01", "metric": "PV", "value": 227 },
+  { "Function": "PCG", "date": "2026-02-01", "metric": "PV", "value": 84 },
+  { "Function": "PCG", "date": "2026-03-01", "metric": "PV", "value": 321 },
+
+  { "Function": "ISG", "date": "2025-12-01", "metric": "UV", "value": 19 },
+  { "Function": "ISG", "date": "2026-01-01", "metric": "UV", "value": 52 },
+  { "Function": "ISG", "date": "2026-02-01", "metric": "UV", "value": 48 },
+  { "Function": "ISG", "date": "2026-03-01", "metric": "UV", "value": 48 },
+
+  { "Function": "ISG", "date": "2025-12-01", "metric": "PV", "value": 28 },
+  { "Function": "ISG", "date": "2026-01-01", "metric": "PV", "value": 455 },
+  { "Function": "ISG", "date": "2026-02-01", "metric": "PV", "value": 466 },
+  { "Function": "ISG", "date": "2026-03-01", "metric": "PV", "value": 439 },
+
+  { "Function": "Total", "date": "2025-12-01", "metric": "UV", "value": 96 },
+  { "Function": "Total", "date": "2026-01-01", "metric": "UV", "value": 201 },
+  { "Function": "Total", "date": "2026-02-01", "metric": "UV", "value": 168 },
+  { "Function": "Total", "date": "2026-03-01", "metric": "UV", "value": 205 },
+
+  { "Function": "Total", "date": "2025-12-01", "metric": "PV", "value": 423 },
+  { "Function": "Total", "date": "2026-01-01", "metric": "PV", "value": 1623 },
+  { "Function": "Total", "date": "2026-02-01", "metric": "PV", "value": 1767 },
+  { "Function": "Total", "date": "2026-03-01", "metric": "PV", "value": 2859 }
+]
